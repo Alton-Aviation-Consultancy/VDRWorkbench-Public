@@ -1,8 +1,7 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "updater_download_url": "https://github.com/Alton-Aviation-Consultancy/vdrworkbench-public",
-  "optional_for": [
-    "1.0"
-  ],
+  "mandatory": false,
+  "min_version": "1.1",
   "notes": "Versioning test only. Not a real release."
 }
