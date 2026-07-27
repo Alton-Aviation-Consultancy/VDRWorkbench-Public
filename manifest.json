@@ -1,5 +1,6 @@
 {
   "version": "1.1",
-  "updater_download_url": "ftp://example.invalid/x.exe",
-  "notes": "Versioning test only. Not a real release."
+  "updater_download_url": "https://github.com/Alton-Aviation-Consultancy/vdrworkbench-public",
+  "notes": "Versioning test only. Not a real release.",
+  "probe": "probe-1785162097"
 }
