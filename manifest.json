@@ -1,4 +1,7 @@
 {
-  "version": "1.0",
-  "updater_download_url": "https://www.placeholder.com"
+  "version": "1.1",
+  "updater_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.1/Updater%20to%20v1.1%20-%20Alton%20VDR%20Workbench.exe?csf=1&web=1&e=uw3E9v",
+  "app_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.1/Alton%20VDR%20Workbench.exe?csf=1&web=1&e=GRradM",
+  "notes": "Fixes the Draft update email button on IRL Match, and keeps document references stable if a manifest is rebuilt.",
+  "optional_for": ["1.0"]
 }
