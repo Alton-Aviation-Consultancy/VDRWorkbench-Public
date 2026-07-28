@@ -5,7 +5,7 @@
 | `version` | string | **required** | The current release. Compared numerically, part by part (1.0.10 > 1.0.9). |
 | `updater_download_url` | `http(s)` | none | The updater, for people who already have the app. |
 | `app_download_url` | `http(s)` | the updater link | The full app, for a machine with nothing installed. |
-| `notes` | string | none | One line shown in the prompt. |
+| `notes` | string | none | One line shown in the prompt under **What's new**. Say what CHANGED, not how to install it: the app already shows the download / extract / run steps and strips any sentence here that repeats them. |
 | `mandatory` | boolean | **`true`** | Locks the app until they update. Set `false` for a soft release. |
 | `optional_for` | string array | `[]` | Versions exempt from the lock, e.g. `["1.2","1.2.1"]`. They get a dismissible prompt. |
 | `min_version` | string | none | Forces anything below it even on a soft release. |
