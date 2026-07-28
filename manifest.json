@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "updater_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.2.5/Updater%20to%20v1.2.5%20-%20Alton%20VDR%20Workbench.zip?csf=1&web=1&e=bdCEb4",
-  "app_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.2.5/Alton%20VDR%20Workbench.zip?csf=1&web=1&e=G6pfZT",
-  "notes": "Adds the Visualiser, which lays the data room out so that similar documents sit close together, plus fixes across intake, cost display and the email drafts.",
+  "version": "1.2.6",
+  "updater_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.2.6/Updater%20to%20v1.2.6%20-%20Alton%20VDR%20Workbench.zip?csf=1&web=1&e=uyp3pj",
+  "app_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.2.6/Alton%20VDR%20Workbench.zip?csf=1&web=1&e=poPRjw",
+  "notes": "Clearer loading screens throughout, a restyled Document Register export, and the dialog after an update now shows what changed in the release.",
   "mandatory": true
 }
