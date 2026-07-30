@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.3.1/Alton%20VDR%20Workbench%20v1.3.1%20Update.vdrpkg?csf=1&web=1&e=GFtPtz",
-  "app_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.3.1/Alton%20VDR%20Workbench.zip?csf=1&web=1&e=c9MuQBv",
-  "notes": "A maintenance release with no change to how the program works. It is the first one delivered as a single update file, so it also serves as the proof that route works end to end.",
+  "version": "1.3.2",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.3.2/Alton%20VDR%20Workbench%20v1.3.2%20Update.vdrpkg?csf=1&web=1&e=lnQmRP",
+  "app_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.3.2/Alton%20VDR%20Workbench.zip?csf=1&web=1&e=flBaHb",
+  "notes": "The update window is simpler, with the download button first and what changed moved to the bottom. The diagnostic log is much more useful: every line is timestamped, and a document that could not be read is now named with the reason instead of only counted.",
   "mandatory": true
 }
