@@ -11,9 +11,25 @@ Added in v1.4.3. Earlier versions ignore it.
 ```json
 {
   "message": "The AI gateway is being maintained this afternoon. Runs started now may fail.",
-  "level": "warn"
+  "level": "yellow"
 }
 ```
+
+It appears as a panel laid over the top of the app, under the screen's own title. It does not push
+anything down and it does not stop anyone working.
+
+## Colours
+
+`level` picks the colour. Leave it out and you get green.
+
+| `level` | Colour | Reads as | Use it for |
+|---|---|---|---|
+| `green` | Green | **Notice** | Something to know. Maintenance is finished, a room has finished re-syncing. |
+| `yellow` | Amber | **Please note** | Something that might affect their work. A service is degraded, a run may fail. |
+| `red` | Red | **Important** | Stop and read. Do not start a run today, a data room is incomplete. |
+
+The older names `info`, `warn` and `critical` still work and map to green, yellow and red. Anything
+unrecognised shows green rather than losing the notice.
 
 ## To clear it
 
@@ -28,7 +44,7 @@ Set the message back to empty. Do not delete the file.
 | Field | Required | What it does |
 |---|---|---|
 | `message` | yes | The text shown. An empty message means no notice. |
-| `level` | no | `info` (default, grey), `warn` (amber), `critical` (red). Colour only. |
+| `level` | no | `green` (default), `yellow` or `red`. Colour only, and it never changes the wording. |
 | `id` | no | So dismissing it is remembered. Leave it out and it is derived from the text, which means **editing the wording brings the notice back for everyone**, including people who dismissed the previous one. Set an id by hand only if you want to change the wording *without* re-showing it. |
 | `until` | no | `YYYY-MM-DD`. The notice stops showing after this date, so a planned outage can be scheduled and forgotten. |
 | `link` | no | An http(s) link shown as a button. Any other scheme is ignored. |
