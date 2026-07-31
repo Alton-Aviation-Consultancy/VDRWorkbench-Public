@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.4.6/Alton%20VDR%20Workbench%20v1.4.6%20Update.vdrpkg?csf=1&web=1&e=OYdPjV",
-  "sha256": "0605ed95fc08a3fb6b751fea51c34d200e96af8e9488f00a03eebfbbc7daf79c",
-  "notes": "A maintenance release. Nothing to do differently.",
+  "version": "1.4.5",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.4.5/Alton%20VDR%20Workbench%20v1.4.5%20Update.vdrpkg?csf=1&web=1&e=XLmFHs",
+  "sha256": "a88a2a34aa29a50d8fde52ecdbfdf762feb06bcae33fd5445a166a456b546325",
+  "notes": "Updating is clearer: one panel throughout that says what it is doing, cannot be interrupted half way, and tells you if anything goes wrong instead of quietly leaving you on the old version. Notices now appear as their own panel over the top of the app.",
   "mandatory": true
 }
