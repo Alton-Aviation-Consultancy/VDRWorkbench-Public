@@ -1,6 +1,7 @@
 {
-  "version": "1.4.3",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.4.3/Alton%20VDR%20Workbench%20v1.4.3%20Update.vdrpkg?csf=1&web=1&e=UtKoDp",
-  "notes": "Notices can now reach you inside the app. When something needs saying, that the AI service is being maintained this afternoon, say, a short message appears across the top of the app and you can dismiss it. Settings has been tidied: check for updates, install an update file and show the introduction again now sit together at the top, the descriptions no longer talk about OCR and language models, and the cost rate tables are tucked away until you ask for them. A handful of fixes to the setup screens: the converter step says so plainly when a converter is already installed rather than still offering to install one, Skip is no longer offered once you are connected, the step numbers are properly centred, and if no key has been issued to you the message now names the account you signed in as, so it is clear which one needs adding. Signing out no longer discards a key that was entered by hand. And if OneDrive refuses to release one particular file, the rest of the download now carries on instead of stopping and reporting that OneDrive is not running.",
+  "version": "1.4.4",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.4.4/Alton%20VDR%20Workbench%20v1.4.4%20Update.vdrpkg?csf=1&web=1&e=nQ8HS9",
+  "sha256": "c233366566eb92f6bb9cb2f887d6630fcad3a00facc7a4fe2025488ed06d5c81",
+  "notes": "Downloads that fail now offer Try again, explain a whole-folder problem once instead of repeating it against every file, and show how to have Windows fetch the folder itself. Intake says why a document could not be read, and the diagnostic logs record far more about OneDrive.",
   "mandatory": true
 }
