@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.5.1/Alton%20VDR%20Workbench%20v1.5.1%20Update.vdrpkg?d=w1a71e109da1f437eb761d1a7d8207b26&csf=1&web=1&e=3jfhZB",
-  "sha256": "b362316dc1b5da54758e07be8ab4123dc28f9bdd40859c87dc4d74ec7549caf3",
-  "notes": "VDR Workbench now connects to Alton's new AI service. Earlier versions can no longer reach it, so this update is required. In Settings, the cost rate tables now open and the update actions have a heading.",
+  "version": "1.5.2",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.5.2/Alton%20VDR%20Workbench%20v1.5.2%20Update.vdrpkg?d=wb84685c51f40430ab29da59cee65a2fe&csf=1&web=1&e=cxTn2T",
+  "sha256": "fcd31973ec1e4fd71e4b384c95f64f2ec5f2854741b8bb431cd9e144de302330",
+  "notes": "Opening a document from a data room that is not on this device now shows the usual notice, with the button to point VDR Workbench at your own copy, instead of a technical error. The built-in user guide has been brought up to date throughout.",
   "mandatory": true
 }
