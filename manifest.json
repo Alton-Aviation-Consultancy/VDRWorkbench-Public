@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.4.6/Alton%20VDR%20Workbench%20v1.4.6%20Update.vdrpkg?csf=1&web=1&e=hNKgXW",
-  "sha256": "11d95c6cebf96ffdfd0e439c1c4b174c26d0894fae02250ae45cbc6123fcd110",
-  "notes": "The connection is now checked when you open the app and again whenever you sign in, so a key that has stopped working is caught up front rather than part way through a run. Updating shows one panel throughout that cannot be interrupted, and the app is brought to the front when it reopens.",
+  "version": "1.5.1",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.5.1/Alton%20VDR%20Workbench%20v1.5.1%20Update.vdrpkg?d=w1a71e109da1f437eb761d1a7d8207b26&csf=1&web=1&e=3jfhZB",
+  "sha256": "b362316dc1b5da54758e07be8ab4123dc28f9bdd40859c87dc4d74ec7549caf3",
+  "notes": "VDR Workbench now connects to Alton's new AI service. Earlier versions can no longer reach it, so this update is required. In Settings, the cost rate tables now open and the update actions have a heading.",
   "mandatory": true
 }
