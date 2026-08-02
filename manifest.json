@@ -1,6 +1,6 @@
 {
   "version": "1.5.4",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.5.4/Alton%20VDR%20Workbench%20v1.5.4%20Update.vdrpkg?d=wa4c000e69d9242aa8320af2f8ef119c7&csf=1&web=1&e=FKVIQL",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.5.4/Alton%20VDR%20Workbench%20v1.5.4%20Update.vdrpkg?d=wa4c000e69d9242aa8320af2f8ef119c7&csf=1&web=1&e=BUrc8o",
   "sha256": "31b275b0b243798befdc8aa2cc7a2eb6bdc8b3bec47ed39e6b305ab87489aa64",
   "notes": "The five numbered steps now stay in the sidebar for as long as you are working a data room, so you can go back over a stage and check it after a run has finished or after an intake that found nothing new. Switch manifest sits below the tools throughout.",
   "mandatory": true
