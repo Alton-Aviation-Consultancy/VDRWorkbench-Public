@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.5.2/Alton%20VDR%20Workbench%20v1.5.2%20Update.vdrpkg?d=wb84685c51f40430ab29da59cee65a2fe&csf=1&web=1&e=cxTn2T",
-  "sha256": "fcd31973ec1e4fd71e4b384c95f64f2ec5f2854741b8bb431cd9e144de302330",
-  "notes": "Opening a document from a data room that is not on this device now shows the usual notice, with the button to point VDR Workbench at your own copy, instead of a technical error. The built-in user guide has been brought up to date throughout.",
+  "version": "1.5.3",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.5.3/Alton%20VDR%20Workbench%20v1.5.3%20Update.vdrpkg?d=waa9a7ca873a146dcb2208fea016c04d2&csf=1&web=1&e=aghYE4",
+  "sha256": "59e17b7fe67a8aa5219946fb934373ad58ab322e81a2089a8e6eaa383524dec9",
+  "notes": "Switch manifest is now in the sidebar while a data room is being processed, so you can move to another manifest without finishing or abandoning the run first.",
   "mandatory": true
 }
