@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.5.3/Alton%20VDR%20Workbench%20v1.5.3%20Update.vdrpkg?d=waa9a7ca873a146dcb2208fea016c04d2&csf=1&web=1&e=aghYE4",
-  "sha256": "59e17b7fe67a8aa5219946fb934373ad58ab322e81a2089a8e6eaa383524dec9",
-  "notes": "Switch manifest is now in the sidebar while a data room is being processed, so you can move to another manifest without finishing or abandoning the run first.",
+  "version": "1.5.4",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/v1.5.4/Alton%20VDR%20Workbench%20v1.5.4%20Update.vdrpkg?d=wa4c000e69d9242aa8320af2f8ef119c7&csf=1&web=1&e=FKVIQL",
+  "sha256": "31b275b0b243798befdc8aa2cc7a2eb6bdc8b3bec47ed39e6b305ab87489aa64",
+  "notes": "The five numbered steps now stay in the sidebar for as long as you are working a data room, so you can go back over a stage and check it after a run has finished or after an intake that found nothing new. Switch manifest sits below the tools throughout.",
   "mandatory": true
 }
