@@ -1,7 +1,7 @@
 {
-  "version": "1.5.4",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.5.4/Alton%20VDR%20Workbench%20v1.5.4%20Update.vdrpkg?d=wa4c000e69d9242aa8320af2f8ef119c7&csf=1&web=1&e=BUrc8o",
-  "sha256": "31b275b0b243798befdc8aa2cc7a2eb6bdc8b3bec47ed39e6b305ab87489aa64",
-  "notes": "The five numbered steps now stay in the sidebar for as long as you are working a data room, so you can go back over a stage and check it after a run has finished or after an intake that found nothing new. Switch manifest sits below the tools throughout.",
+  "version": "1.6.2",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.2/Alton%20VDR%20Workbench%20v1.6.2%20Update.vdrpkg?d=w9c255fcda1cc41d8bde78f36364bc142&csf=1&web=1&e=RCfaHh",
+  "sha256": "2adff85c39097867b8fd0c2396dd6b03a038a0d685a39cf9d770c1fd9bda8f97",
+  "notes": "Search, Overview and IRL matching now size their shortlist from the data room itself rather than using a fixed number, so a larger room considers proportionally more documents and fewer answers get missed. The relevance screen behind Search was reworked at the same time so that a long shortlist is judged in full.",
   "mandatory": true
 }
