@@ -1,7 +1,7 @@
 {
-  "version": "1.6.3",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.3/Alton%20VDR%20Workbench%20v1.6.3%20Update.vdrpkg?d=wca4a7bc01af44edfa5990e35227abd5f&csf=1&web=1&e=072RAW",
-  "sha256": "c6e0e73b53b3b1f454713e3640a89faa6dd13dd66a94a6004a1ded03a6cc0158",
+  "version": "1.6.5",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.5/Alton%20VDR%20Workbench%20v1.6.5%20Update.vdrpkg?d=w85f4bde744f64b0790ead763062411b1&csf=1&web=1&e=UTsPuD",
+  "sha256": "98b0768827b01d82f25557e5196cf094990d99038e5bf7bb6b70ef429c3b8164",
   "notes": "Assorted changes following deployment.",
   "mandatory": true
 }
