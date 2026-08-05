@@ -1,7 +1,8 @@
 {
-  "version": "1.6.8",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.8/Alton%20VDR%20Workbench%20v1.6.8%20Update.vdrpkg",
-  "sha256": "041852c2d56ae6af743c4ce625d035f2c1685ac42346c72d2dec9e044c02d115",
-  "notes": "The user guide has been refreshed, with every screenshot retaken and corrections to the intake statuses, the Settings reference and the FAQ. Debug mode now reports the total time elapsed on the Run complete summary. The message banner is quieter.",
-  "mandatory": true
+  "version": "1.6.8.1",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.8.1/Alton%20VDR%20Workbench%20v1.6.8.1%20Update.vdrpkg",
+  "sha256": "9fc98dc41c97e5d4f9dfbf37c32e9cfe1d2d5624d10ba5e4128449bb37409af8",
+  "notes": "Intake now records how long it took. The Refresh page shows the duration of the last intake alongside who ran it and when.",
+  "mandatory": true,
+  "optional_for": ["1.6.8"]
 }
