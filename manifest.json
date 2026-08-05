@@ -1,7 +1,7 @@
 {
-  "version": "1.6.7",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.7/Alton%20VDR%20Workbench%20v1.6.7%20Update.vdrpkg?d=w41b1bc16357c48ac9289c71da0d3d1ff&csf=1&web=1&e=2Z69fA",
-  "sha256": "643ff93b7a670cd8178b20838f7d1b012b8efcd0b1d556068c01cc15cf2c4f57",
-  "notes": "The sidebar now shows whether a manifest is open in READ MODE or INTAKE MODE. Synthesis names each retry pass, so a progress bar that starts again is explained rather than looking like a repeat. The change history filter now appears on every run that mixes added, revised and removed files, and no longer on runs of a single kind.",
+  "version": "1.6.8",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.8/Alton%20VDR%20Workbench%20v1.6.8%20Update.vdrpkg",
+  "sha256": "041852c2d56ae6af743c4ce625d035f2c1685ac42346c72d2dec9e044c02d115",
+  "notes": "The user guide has been refreshed, with every screenshot retaken and corrections to the intake statuses, the Settings reference and the FAQ. Debug mode now reports the total time elapsed on the Run complete summary. The message banner is quieter.",
   "mandatory": true
 }
