@@ -1,8 +1,7 @@
 {
-  "version": "1.6.8.1",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.8.1/Alton%20VDR%20Workbench%20v1.6.8.1%20Update.vdrpkg",
-  "sha256": "9fc98dc41c97e5d4f9dfbf37c32e9cfe1d2d5624d10ba5e4128449bb37409af8",
-  "notes": "Intake now records how long it took. The Refresh page shows the duration of the last intake alongside who ran it and when.",
-  "mandatory": true,
-  "optional_for": ["1.6.8"]
+  "version": "1.6.8.5",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.6.8.5/Alton%20VDR%20Workbench%20v1.6.8.5%20Update.vdrpkg",
+  "sha256": "61d11944a772721e6a58f38812356294f9d998694e272acef1f306a7beb2555c",
+  "notes": "A data room containing an unusual spreadsheet could close the app part way through reading it. That is fixed, and the document is reported as one that could not be read instead. Large spreadsheets are also summarised from a smaller sample, which roughly halves the cost of processing a spreadsheet heavy room.",
+  "mandatory": true
 }
