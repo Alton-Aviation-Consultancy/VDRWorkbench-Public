@@ -1,7 +1,7 @@
 {
-  "version": "1.7",
-  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.7/Alton%20VDR%20Workbench%20v1.7%20Update.vdrpkg",
-  "sha256": "ca64db6a16e7166768563404dfb5ca40eae8bc7fbeeac0bddfb69718c6615260",
-  "notes": "The cost figures on the Analytics screen were under-reporting what a run had actually spent. Three things were wrong: a room containing very large documents was priced as though every document had used the cheaper model, spreadsheet pages that are read on your own machine were charged for, and embedding tokens were counted at about a third of the real number. Runs from here on report what was spent. Figures already recorded from earlier runs are left as they are.",
+  "version": "1.7.1",
+  "package_download_url": "https://altonaviation.sharepoint.com/:u:/r/sites/IP/Alton/Artificial%20Intelligence/1.%20AI%20Tool%20Implementation/VDR%20Workbench/Updates/v1.7.1/Alton%20VDR%20Workbench%20v1.7.1%20Update.vdrpkg",
+  "sha256": "9cb87f6f7fd4d401338768022323b3ae20d3cedf559e2a1a2f99630c81bd1c90",
+  "notes": "Personal data is now removed from documents that are full of it. A limit meant that a file listing many names, phone numbers or payroll figures had none of them taken out, while a file with only two or three had them removed properly. Separately, a very large document could fail to be summarised and stay that way on every later run, which is also fixed.",
   "mandatory": true
 }
